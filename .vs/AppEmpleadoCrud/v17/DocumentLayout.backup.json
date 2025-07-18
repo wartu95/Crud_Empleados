@@ -1,0 +1,190 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\elwar\\source\\repos\\AppEmpleadoCrud\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BB32C62D-F393-475E-A0AC-B320070BF70D}|AppEmpleadoCrud\\AppEmpleadoCrud.csproj|c:\\users\\elwar\\source\\repos\\appempleadocrud\\appempleadocrud\\views\\home\\eliminar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BB32C62D-F393-475E-A0AC-B320070BF70D}|AppEmpleadoCrud\\AppEmpleadoCrud.csproj|solutionrelative:appempleadocrud\\views\\home\\eliminar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB32C62D-F393-475E-A0AC-B320070BF70D}|AppEmpleadoCrud\\AppEmpleadoCrud.csproj|c:\\users\\elwar\\source\\repos\\appempleadocrud\\appempleadocrud\\views\\home\\empleado_detalle.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BB32C62D-F393-475E-A0AC-B320070BF70D}|AppEmpleadoCrud\\AppEmpleadoCrud.csproj|solutionrelative:appempleadocrud\\views\\home\\empleado_detalle.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB32C62D-F393-475E-A0AC-B320070BF70D}|AppEmpleadoCrud\\AppEmpleadoCrud.csproj|c:\\users\\elwar\\source\\repos\\appempleadocrud\\appempleadocrud\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB32C62D-F393-475E-A0AC-B320070BF70D}|AppEmpleadoCrud\\AppEmpleadoCrud.csproj|solutionrelative:appempleadocrud\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB32C62D-F393-475E-A0AC-B320070BF70D}|AppEmpleadoCrud\\AppEmpleadoCrud.csproj|c:\\users\\elwar\\source\\repos\\appempleadocrud\\appempleadocrud\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BB32C62D-F393-475E-A0AC-B320070BF70D}|AppEmpleadoCrud\\AppEmpleadoCrud.csproj|solutionrelative:appempleadocrud\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB32C62D-F393-475E-A0AC-B320070BF70D}|AppEmpleadoCrud\\AppEmpleadoCrud.csproj|c:\\users\\elwar\\source\\repos\\appempleadocrud\\appempleadocrud\\models\\empleadovm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB32C62D-F393-475E-A0AC-B320070BF70D}|AppEmpleadoCrud\\AppEmpleadoCrud.csproj|solutionrelative:appempleadocrud\\models\\empleadovm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB32C62D-F393-475E-A0AC-B320070BF70D}|AppEmpleadoCrud\\AppEmpleadoCrud.csproj|c:\\users\\elwar\\source\\repos\\appempleadocrud\\appempleadocrud\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB32C62D-F393-475E-A0AC-B320070BF70D}|AppEmpleadoCrud\\AppEmpleadoCrud.csproj|solutionrelative:appempleadocrud\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB32C62D-F393-475E-A0AC-B320070BF70D}|AppEmpleadoCrud\\AppEmpleadoCrud.csproj|c:\\users\\elwar\\source\\repos\\appempleadocrud\\appempleadocrud\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{BB32C62D-F393-475E-A0AC-B320070BF70D}|AppEmpleadoCrud\\AppEmpleadoCrud.csproj|solutionrelative:appempleadocrud\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB32C62D-F393-475E-A0AC-B320070BF70D}|AppEmpleadoCrud\\AppEmpleadoCrud.csproj|c:\\users\\elwar\\source\\repos\\appempleadocrud\\appempleadocrud\\models\\dbempleadoscontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB32C62D-F393-475E-A0AC-B320070BF70D}|AppEmpleadoCrud\\AppEmpleadoCrud.csproj|solutionrelative:appempleadocrud\\models\\dbempleadoscontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB32C62D-F393-475E-A0AC-B320070BF70D}|AppEmpleadoCrud\\AppEmpleadoCrud.csproj|c:\\users\\elwar\\source\\repos\\appempleadocrud\\appempleadocrud\\models\\empleado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB32C62D-F393-475E-A0AC-B320070BF70D}|AppEmpleadoCrud\\AppEmpleadoCrud.csproj|solutionrelative:appempleadocrud\\models\\empleado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB32C62D-F393-475E-A0AC-B320070BF70D}|AppEmpleadoCrud\\AppEmpleadoCrud.csproj|c:\\users\\elwar\\source\\repos\\appempleadocrud\\appempleadocrud\\models\\cargo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB32C62D-F393-475E-A0AC-B320070BF70D}|AppEmpleadoCrud\\AppEmpleadoCrud.csproj|solutionrelative:appempleadocrud\\models\\cargo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Eliminar.cshtml",
+              "DocumentMoniker": "C:\\Users\\elwar\\source\\repos\\AppEmpleadoCrud\\AppEmpleadoCrud\\Views\\Home\\Eliminar.cshtml",
+              "RelativeDocumentMoniker": "AppEmpleadoCrud\\Views\\Home\\Eliminar.cshtml",
+              "ToolTip": "C:\\Users\\elwar\\source\\repos\\AppEmpleadoCrud\\AppEmpleadoCrud\\Views\\Home\\Eliminar.cshtml",
+              "RelativeToolTip": "AppEmpleadoCrud\\Views\\Home\\Eliminar.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAABuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-18T01:12:32.029Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Empleado_Detalle.cshtml",
+              "DocumentMoniker": "C:\\Users\\elwar\\source\\repos\\AppEmpleadoCrud\\AppEmpleadoCrud\\Views\\Home\\Empleado_Detalle.cshtml",
+              "RelativeDocumentMoniker": "AppEmpleadoCrud\\Views\\Home\\Empleado_Detalle.cshtml",
+              "ToolTip": "C:\\Users\\elwar\\source\\repos\\AppEmpleadoCrud\\AppEmpleadoCrud\\Views\\Home\\Empleado_Detalle.cshtml",
+              "RelativeToolTip": "AppEmpleadoCrud\\Views\\Home\\Empleado_Detalle.cshtml",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAAAEAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-18T00:07:58.054Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "EmpleadoVM.cs",
+              "DocumentMoniker": "C:\\Users\\elwar\\source\\repos\\AppEmpleadoCrud\\AppEmpleadoCrud\\Models\\EmpleadoVM.cs",
+              "RelativeDocumentMoniker": "AppEmpleadoCrud\\Models\\EmpleadoVM.cs",
+              "ToolTip": "C:\\Users\\elwar\\source\\repos\\AppEmpleadoCrud\\AppEmpleadoCrud\\Models\\EmpleadoVM.cs",
+              "RelativeToolTip": "AppEmpleadoCrud\\Models\\EmpleadoVM.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-17T23:49:36.502Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\elwar\\source\\repos\\AppEmpleadoCrud\\AppEmpleadoCrud\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "AppEmpleadoCrud\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\elwar\\source\\repos\\AppEmpleadoCrud\\AppEmpleadoCrud\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "AppEmpleadoCrud\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAgAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-17T21:54:30.889Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\elwar\\source\\repos\\AppEmpleadoCrud\\AppEmpleadoCrud\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "AppEmpleadoCrud\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\elwar\\source\\repos\\AppEmpleadoCrud\\AppEmpleadoCrud\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "AppEmpleadoCrud\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAADUAAAAAAAAAAAAcwDwAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-17T21:42:42.937Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\elwar\\source\\repos\\AppEmpleadoCrud\\AppEmpleadoCrud\\Program.cs",
+              "RelativeDocumentMoniker": "AppEmpleadoCrud\\Program.cs",
+              "ToolTip": "C:\\Users\\elwar\\source\\repos\\AppEmpleadoCrud\\AppEmpleadoCrud\\Program.cs",
+              "RelativeToolTip": "AppEmpleadoCrud\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-17T21:35:31.093Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\elwar\\source\\repos\\AppEmpleadoCrud\\AppEmpleadoCrud\\appsettings.json",
+              "RelativeDocumentMoniker": "AppEmpleadoCrud\\appsettings.json",
+              "ToolTip": "C:\\Users\\elwar\\source\\repos\\AppEmpleadoCrud\\AppEmpleadoCrud\\appsettings.json",
+              "RelativeToolTip": "AppEmpleadoCrud\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-07-17T21:35:32.025Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Empleado.cs",
+              "DocumentMoniker": "C:\\Users\\elwar\\source\\repos\\AppEmpleadoCrud\\AppEmpleadoCrud\\Models\\Empleado.cs",
+              "RelativeDocumentMoniker": "AppEmpleadoCrud\\Models\\Empleado.cs",
+              "ToolTip": "C:\\Users\\elwar\\source\\repos\\AppEmpleadoCrud\\AppEmpleadoCrud\\Models\\Empleado.cs",
+              "RelativeToolTip": "AppEmpleadoCrud\\Models\\Empleado.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAzwBMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-17T21:32:43.105Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Cargo.cs",
+              "DocumentMoniker": "C:\\Users\\elwar\\source\\repos\\AppEmpleadoCrud\\AppEmpleadoCrud\\Models\\Cargo.cs",
+              "RelativeDocumentMoniker": "AppEmpleadoCrud\\Models\\Cargo.cs",
+              "ToolTip": "C:\\Users\\elwar\\source\\repos\\AppEmpleadoCrud\\AppEmpleadoCrud\\Models\\Cargo.cs",
+              "RelativeToolTip": "AppEmpleadoCrud\\Models\\Cargo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-17T21:32:28.289Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "DbempleadosContext.cs",
+              "DocumentMoniker": "C:\\Users\\elwar\\source\\repos\\AppEmpleadoCrud\\AppEmpleadoCrud\\Models\\DbempleadosContext.cs",
+              "RelativeDocumentMoniker": "AppEmpleadoCrud\\Models\\DbempleadosContext.cs",
+              "ToolTip": "C:\\Users\\elwar\\source\\repos\\AppEmpleadoCrud\\AppEmpleadoCrud\\Models\\DbempleadosContext.cs",
+              "RelativeToolTip": "AppEmpleadoCrud\\Models\\DbempleadosContext.cs",
+              "ViewState": "AgIAACkAAAAAAAAAAAAswDYAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-17T21:32:06.405Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
