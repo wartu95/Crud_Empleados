@@ -13,5 +13,5 @@
    - Empleado
    - Cargo
 
-## Contribuciones
+## 🤝 Contribuciones
    ¡Las contribuciones son bienvenididas! Si encuentras errores, tienes sugerencias de mejora o deseas añadir nuevas funcionalidades, por favor, abre un "issue" o envia un "pull request".
